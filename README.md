@@ -9,7 +9,7 @@ MUHAIRWE DOMINIC : http://github.com/smappinc/low-yields-inefficient-faming-prac
 
 NAKACWA EMELDA : https://github.com/Emelda-15/low-crop-yields/blob/main/README.md
 
-MUZEI FRITO : 
+MUZEI FRITO : https://github.com/OKOLIMO-Joseph/frito-martin
 
 NUKWAKUNDA PEACE : https://github.com/N-peace/Peace/blob/main/pdf_20230716_151059_0000.pdf
 
