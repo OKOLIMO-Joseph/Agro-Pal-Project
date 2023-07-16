@@ -6,5 +6,4 @@ MUHAIRWE DOMINIC : http://github.com/smappinc/low-yields-inefficient-faming-prac
 NAKACWA EMELDA : 
 MUZEI FRITO :
 NUKWAKUNDA PEACE : 
-NATABO DORCUS : 
-
+NATABO DORCUS : https://github.com/NataboDorcusKwagala/ProblemSolutions/blob/main/problem.py
